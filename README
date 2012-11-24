@@ -1,2 +1,1 @@
-Toggle between absolute and relative line numbers (vim 7.3 or later):
-nnoremap <C-n> :NumberToggle<cr> 
+See git://github.com/jeffkreeftmeijer/vim-numbertoggle.git
